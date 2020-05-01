@@ -1,0 +1,18 @@
+  .social {
+    height: 30px;
+    width: 30px;
+    margin: 3px;
+  }
+
+  .card-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+  }
+
+  .card{
+    border: white;
+    max-width: 540px; 
+    font-family: Cambria;
+  }
+
